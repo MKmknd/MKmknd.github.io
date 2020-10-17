@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My new website is now opened!"
+date:   2020-10-17 11:08:48 +0900
+categories: general
+permalink: /:categories/:year/:month/:title
+---
+
+Hi folks. I've moved my website from the university website to GitHub.
+Please enjoy my new site :)
