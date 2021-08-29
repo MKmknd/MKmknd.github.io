@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I was invited to be a PC member for the Artifact Evaluation track at ICSME 2021"
+date:   2021-8-29 0:0:0 +0900
+categories: service
+permalink: /:categories/:year/:month/:title
+---
+
+I was invited to be a PC member for the Artifact Evaluation track at the 37th International Conference on Software Maintenance and Evolution (ICSME 2021)

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "I was invited to be a publication co-chair for the 10th International Workshop on Empirical Software Engineering in Practice (IWESEP2019)"
+date:   2019-12-1 0:0:0 +0900
+categories: service
+permalink: /:categories/:year/:month/:title
+---
+
+
+I was invited to be a publication co-chair for the 10th International Workshop on Empirical Software Engineering in Practice (IWESEP2019), Dec. 13-14, 2019 (Tokyo, Japan).
