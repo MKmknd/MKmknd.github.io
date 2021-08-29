@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Masanari Kondo's page
-email: m-kondo here_at_added se.is.kit.ac.jp
+email: kondo here_at_added ait.kyushu-u.ac.jp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
