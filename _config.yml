@@ -20,7 +20,7 @@
 
 title: Masanari Kondo's page
 email: m-kondo here_at_added se.is.kit.ac.jp
-baseurl: "mkmknd.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
