@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Please also check [my Google Scholar page](https://scholar.google.com/citations?user=tA7d0goAAAAJ&hl=en) or [my researchmap page](https://researchmap.jp/mkmknd/published_papers).
+Please also check [my Google Scholar page](https://scholar.google.com/citations?user=tA7d0goAAAAJ&hl=en) or [my researchmap page](https://researchmap.jp/mkmknd/published_papers?lang=en).
 
 
 ## Journal Papers
