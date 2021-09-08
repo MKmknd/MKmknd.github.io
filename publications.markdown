@@ -36,6 +36,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, 2021年9月.
 
 ## Awards
+- 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "研究奨励賞: 自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, 2021年9月.
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "学生奨励賞: 木編集距離を用いた類似コード検索器における深層学習モデルの性能評価," ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 2021年9月.
 - **M. Kondo**, G. A. Oliva, Z. M. (Jack) Jiang, A. E. Hassan, and O. Mizuno,"SIGSE卓越研究賞: Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, (accepted, to appear).
 - **M. Kondo**, C. Bezemer, Y. Kamei, A. E. Hassan, and O. Mizuno, "SIGSE卓越研究賞: The Impact of Feature Reduction Techniques on Defect Prediction Models," Empirical Software Engineering, 10.1007/s10664-018-9679-5, August 2019.
