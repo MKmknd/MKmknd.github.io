@@ -54,6 +54,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 山手 響介, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "ソフトウェア開発者の知見を考慮した半自動バグ修正の性能調査," 電子情報通信学会技術報告, 2021年7月. (オンライン)
 - 大橋 幸奈, 崔 恩瀞, 吉田 則裕, **近藤 将成**, "深層学習モデルにおける差分の時系列変化可視化ツールDeepDiffViewerの提案," 第4回機械学習工学研究会(MLSE夏合宿2021), (ポスター), 2021年7月 (オンライン)．
 - **近藤 将成**, 斎藤 忍, 飯村 結香子, 崔 恩瀞, 水野 修, "オープンソースソフトウェアにおける議論間隔の調査," 電子情報通信学会技術報告, Vol.120, No.343, SS2020-18, pp. 25-30, 2021年1月. (オンライン)
 - **近藤 将成**, 水野 修, "LiNGAMを用いた因果関係同定による工数データセットの分析," 電子情報通信学会技術報告, 116(426, SS2016-36), pp. 1-6, 2017年1月. (京都市)
