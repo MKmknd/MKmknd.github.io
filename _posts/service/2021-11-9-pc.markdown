@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "I was invited to be a PC member for the Registered Report Track of the 2022 Mining Software Repositories Conference (MSR 2022)"
+date:   2021-11-9 0:0:0 +0900
+categories: service
+permalink: /:categories/:year/:month/:title
+---
+
+I was invited to be a PC member for the Registered Report Track of the 2022 Mining Software Repositories Conference (MSR 2022)

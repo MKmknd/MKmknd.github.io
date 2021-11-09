@@ -15,6 +15,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## International Conferences
+- Lei Shi, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "Towards Better Coverage of Dataset with Software Product Line Engineering," In Proc. of the 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS2021), 2021. (accepted, to appear).
 - Shoma Kokuryo, **Masanari Kondo** and Osamu Mizuno, "An Empirical Study of Utilization of Imperative Modules in Ansible," In Proc. of the 20th International Conference on Software Quality, Reliability, and Security (QRS2020), December 2020 (Macau China) (accepted, to appear)
 - Kai Yamamoto, **Masanari Kondo**, Kinari Nishiura and Osamu Mizuno, "Which Metrics Should Researchers Use to Collect Repositories: An Empirical Study," In Proc. of the 20th International Conference on Software Quality, Reliability, and Security (QRS2020), December 2020 (Macau China)(accepted, to appear)
 - Juntong Hong, Osamu Mizuno and **Masanari Kondo**, "An Empirical Study of Source Code Detection Using Image Classification,"  In Proc. of the 10th International Workshop on Empirical Software Engineering in Practice (IWESEP2019), December 2019. (Tokyo, Japan)
@@ -36,11 +37,13 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, 2021年9月.
 
 ## Awards
+- 松田 雄河, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, 実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析, FOSE2021", Nov. 2021.
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "研究奨励賞: 自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, 2021年9月.
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "学生奨励賞: 木編集距離を用いた類似コード検索器における深層学習モデルの性能評価," ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 2021年9月.
 - **M. Kondo**, G. A. Oliva, Z. M. (Jack) Jiang, A. E. Hassan, and O. Mizuno,"SIGSE卓越研究賞: Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, (accepted, to appear).
 - **M. Kondo**, C. Bezemer, Y. Kamei, A. E. Hassan, and O. Mizuno, "SIGSE卓越研究賞: The Impact of Feature Reduction Techniques on Defect Prediction Models," Empirical Software Engineering, 10.1007/s10664-018-9679-5, August 2019.
 - **M. Kondo**, D. German, O. Mizuno, and E. Choi, "SIGSE卓越論文賞: The Impact of Context Metrics on Just-In-Time Defect Prediction,," Empirical Software Engineering, August 2019.
+- 北村 紗也加, "IEEE Computer Society Japan Chapter SES Young Researcher Award: 北村 紗也加, **近藤 将成**, 水野 修, "類似した開発者の分類と不具合予測におけるその効果," ソフトウェアエンジニアリングシンポジウム2019論文集 (SES2019)," August 2019.
 - **近藤 将成**, 京都工芸繊維大学 大学院工芸科学研究科 研究業績賞
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "山下記念研究賞: 深層学習による不具合混入コミットの予測と評価,"ソフトウェアエンジニアリングシンポジウム2017 (SES2017), 2017年8月.
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "特選論文: 深層学習によるソースコードコミットからの不具合混入予測," 情報処理学会論文誌, 59(4), pp. 1250-1261, 2018年4月.
