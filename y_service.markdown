@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Service
+title: Social
 permalink: /service/
 ---
 
