@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Our paper 'An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?' has been accepted for publication in EMSE!!"
+date:   2022-1-11 0:0:0 +0900
+categories: publication
+permalink: /:categories/:year/:month/:title
+---
+
+Our paper 'An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?' has been accepted for publication in EMSE!!
+The preprint is available here (comming soon)
+
+The replication packages: Kondo, M.: MKmknd/EMSE2021 ILA. DOI 10.5281/zenodo.5712318. URL https://doi.org/10.5281/zenodo.5712318
+
+The ILA package: Kondo, M.: MKmknd/ILA. DOI 10.5281/zenodo.5573591. URL https://doi.org/10.5281/zenodo.5573591
