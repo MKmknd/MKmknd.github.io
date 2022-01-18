@@ -7,13 +7,18 @@ permalink: /publications/
 Please also check [my Google Scholar page](https://scholar.google.com/citations?user=tA7d0goAAAAJ&hl=en) or [my researchmap page](https://researchmap.jp/mkmknd/published_papers?lang=en).
 
 
-## Journal Papers
+## Journal Papers (First Author)
 - **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, and Osamu Mizuno, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," Empirical Software Engineering, (accepted, to appear).
 - **Masanari Kondo**, Gustavo A. Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan, and Osamu Mizuno, "Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, Vol.25, pp.4617–4675, 10.1007/s10664-020-09852-5, Sep. 2020. 
 - **Masanari Kondo**, Daniel M. German, Osamu Mizuno, and Eun-Hye Choi, "The Impact of Context Metrics on Just-In-Time Defect Prediction," Empirical Software Engineering, Vol.25, pp.890–939, 10.1007/s10664-019-09736-3, Aug. 2019. (IF (2019): 4.457)
 - **Masanari Kondo**, Cor-Paul Bezemer, Yasutaka Kamei, Ahmed E. Hassan, and Osamu Mizuno, "The Impact of Feature Reduction Techniques on Defect Prediction Models," Empirical Software Engineering, Vol.24, pp.1925-1963, 10.1007/s10664-018-9679-5, Jan. 2019. (IF (2019): 4.457)
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習によるソースコードコミットからの不具合混入予測," 情報処理学会論文誌, 59(4), pp. 1250-1261, 2018年4月.
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
+
+## Journal Papers
+- Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, (accepted, to appear).
+- 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 採録決定済
+- 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 採録決定済
 
 ## International Conferences
 - Lei Shi, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "Towards Better Coverage of Dataset with Software Product Line Engineering," In Proc. of the 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS2021), 2021. (accepted, to appear).
