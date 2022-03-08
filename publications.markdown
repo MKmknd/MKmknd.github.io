@@ -21,6 +21,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 採録決定済
 
 ## International Conferences
+- **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Proc. of the 19th International Conference on Mining Software Repositories (Industry Track) (MSR 2022 Industry Track), 2022. (accepted, to appear).
 - Lei Shi, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "Towards Better Coverage of Dataset with Software Product Line Engineering," In Proc. of the 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS2021), 2021. (accepted, to appear).
 - Shoma Kokuryo, **Masanari Kondo** and Osamu Mizuno, "An Empirical Study of Utilization of Imperative Modules in Ansible," In Proc. of the 20th International Conference on Software Quality, Reliability, and Security (QRS2020), December 2020 (Macau China) (accepted, to appear)
 - Kai Yamamoto, **Masanari Kondo**, Kinari Nishiura and Osamu Mizuno, "Which Metrics Should Researchers Use to Collect Repositories: An Empirical Study," In Proc. of the 20th International Conference on Software Quality, Reliability, and Security (QRS2020), December 2020 (Macau China)(accepted, to appear)
