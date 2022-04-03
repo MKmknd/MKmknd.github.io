@@ -17,10 +17,13 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 
 ## Journal Papers
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, (accepted, to appear).
+- 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 採録決定済
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 採録決定済
 
 ## International Conferences
+- Kyosuke Yamate, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei and Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
+- Tsukasa Nakamura, Masanari Kondo, Yasutaka Kamei and Naoyasu Ubayashi, "Evaluating Automated Program Repair Techniques using Introductory Programming Course Datasets," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
 - Hiroki Kuramoto, **Masanari Kondo**, Yutaro Kashiwa, Yuta Ishimoto, Kaze Shindo, Yasutaka Kamei, Naoyasu Ubayashi, "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on  GitHub -," In Proc. of the 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022 ERA), 2022. (accepted, to appear). [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2022ICPC.pdf)
 
 - **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Proc. of the 19th International Conference on Mining Software Repositories (Industry Track) (MSR 2022 Industry Track), 2022. (accepted, to appear).
