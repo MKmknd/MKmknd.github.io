@@ -22,8 +22,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
-- Kyosuke Yamate, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei and Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
-- Tsukasa Nakamura, Masanari Kondo, Yasutaka Kamei and Naoyasu Ubayashi, "Evaluating Automated Program Repair Techniques using Introductory Programming Course Datasets," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
+- Kyosuke Yamate, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei and Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
+- Tsukasa Nakamura, **Masanari Kondo**, Yasutaka Kamei and Naoyasu Ubayashi, "Evaluating Automated Program Repair Techniques using Introductory Programming Course Datasets," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), 2022. (accepted, to appear)
 - Hiroki Kuramoto, **Masanari Kondo**, Yutaro Kashiwa, Yuta Ishimoto, Kaze Shindo, Yasutaka Kamei, Naoyasu Ubayashi, "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on  GitHub -," In Proc. of the 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022 ERA), 2022. (accepted, to appear). [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2022ICPC.pdf)
 
 - **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Proc. of the 19th International Conference on Mining Software Repositories (Industry Track) (MSR 2022 Industry Track), 2022. (accepted, to appear).[(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2022MSR.pdf)
@@ -86,6 +86,6 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**，久保田 良輔，“遺伝的アルゴリズムに基づく看護師の要望を考慮した勤務表生成に関する研究”，電子情報通信学会技術研究報告，Vol.114，No.370，pp.31-36，京都市，2014 年 12 月.
 
 ## Thesis
-- Masanari Kondo, "An Empirical Study of Feature Engineering on Software Defect Prediction," Ph.D. thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2021.
-- Masanari Kondo, "The Impact of Feature Reduction Techniques on Defect Prediction Models," Master thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2019.
+- **Masanari Kondo**, "An Empirical Study of Feature Engineering on Software Defect Prediction," Ph.D. thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2021.
+- **Masanari Kondo**, "The Impact of Feature Reduction Techniques on Defect Prediction Models," Master thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2019.
 - 近藤 将成, "RBMを用いたソフトウェアメトリクスの特徴抽出手法の提案," 卒業研究報告書, 京都工芸繊維大学, 2017年2月.
