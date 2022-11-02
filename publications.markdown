@@ -37,6 +37,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo** and Ryosuke Kubota, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” In Proc. of the International Symposium on Technology for Sustainability (ISTS2014), in CD-ROM (4 pages), November 2014, (Taipei, Taiwan).
 
 ## Domestic Conferences
+- 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，"DVCリポジトリにおける機械学習パイプラインの進化に関する調査" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，(accepted, to appear)．
+- 小柳 慶，秋山 楽登，沖野 健太郎，**近藤 将成**，亀井 靖高，鵜林 尚靖，"Pythonにおける機械学習関連ライブラリの自動推薦手法の評価" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，(accepted, to appear)．
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究" 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021), pp.13-22, 2021年11月.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021), pp.61-70, 2021年11月.
 - 浅田 翔, 柏 祐太郎, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "継続的インテグレーションに影響を及ぼすRinging Test Alarmsに関する実証調査," 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021) (ショートペーパー), pp.145-150, 2021年11月.
