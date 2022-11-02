@@ -18,6 +18,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 ## Journal Papers
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
 - Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, (accepted, to appear)
+- 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 63(4), pp.986-998, 2022.
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
