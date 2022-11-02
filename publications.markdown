@@ -71,6 +71,10 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 長濱吉慧・近藤将成・亀井靖高・鵜林尚靖（九大），"量子プログラミングにおけるSelf-Admitted Technical Debtの初期調査," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会)，vol.122，no.138(SS)， pp.109-114，2022年7月．
+- 石本優太・近藤将成・鵜林尚靖・亀井靖高（九大）, "確率的オートマトンとn-gramに基づくRNNに対するバグ限局," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会)，vol.122，no.138(SS)， pp.55-60，2022年7月．
+- 山本 大貴(九州大学)，Rajbahadur Gopi Krishnan(Centre for Software Excellence)，**近藤 将成**，亀井 靖高，鵜林 尚靖(九州大学), "連合学習によるプライバシー保護を考慮したプロジェクト間バグ予測," 第211回
+ソフトウェア工学研究発表会, 2022年7月．
 - 杉原 裕太, 沖野 健太郎, 清水 一輝, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "型を考慮したコードクローンの集約リファクタリングに関する研究," 第210回ソフトウェア工学研究発表会, 2022-SE-210(28), pp.1-8, 2022年3月. (オンライン)
 - 中村 悠人, 松尾 春紀, 松田 雄河, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "DVCリポジトリにおけるMLパイプラインの進化に関する調査," 第210回ソフトウェア工学研究発表会, 2022-SE-210(18), pp.1-8, 2022年3月. (オンライン)
 - 小栁 慶, 秋山 楽登, 山手 響介, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "Pythonにおける機械学習関連ライブラリの自動推薦手法の初期評価," 第210回ソフトウェア工学研究発表会, 2022-SE-210(17), pp.1-8, 2022年3月. (オンライン)
