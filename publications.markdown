@@ -16,8 +16,9 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
+- Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, (accepted, to appear).
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
-- Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, (accepted, to appear)
+- Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, Vol.E106-D, No.2, pp.-, Feb. 2023.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 63(4), pp.986-998, 2022.
@@ -53,6 +54,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 中村 悠人，"IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，DVCリポジトリにおける機械学習パイプラインの進化に関する調査，FOSE2022，Nov. 2022．
 - 森田 一成, 柏 祐太郎, 中村 司, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "研究奨励賞: トレースログを用いたバグ予測の性能評価," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), 2022年3月. (オンライン)
 - 中村 悠人, "第210回ソフトウェア工学研究発表会 学生研究賞: 中村 悠人, 松尾 春紀, 松田 雄河, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "DVCリポジトリにおけるMLパイプラインの進化に関する調査," 第210回ソフトウェア工学研究発表会, 2022年3月. (オンライン)"
 - 松田 雄河, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, 実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析, FOSE2021", Nov. 2021.
