@@ -16,7 +16,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
-- Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, (accepted, to appear).
+- Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
 - Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, Vol.E106-D, No.2, pp.-, Feb. 2023.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
