@@ -15,25 +15,5 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading"><div class="just-for-float">{{ page.list_title | default: "News" }}</div></h1>
-    <ul class="post-list" style="padding: 0">
-      {%- for post in site.posts -%}
-      <li  style="margin: 0px">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <font size="3" style="display:block;padding-top:0px;padding-top:0px">
-            [{{ post.date | date: date_format }}] 
-            {{ post.title | escape }}
-          </font>
-        </a>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
 
 </div>
