@@ -73,6 +73,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "最優秀論文賞: 深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017 (SES2017), 2017年8月.
 
 ## Presentations (International)
+- May, 2022, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Industry track, International Conference on Mining Software Repositories (MSR2022), 2022.
 - July. 2020, "The Impact of Feature Reduction Techniques on Defect Prediction Models," In Journal First track, International Conference on Software Engineering (ICSE2020) (Virtual)
 - Sep. 2019, "The Impact of Context Metrics on Just-In-Time Defect Prediction," In Journal First/Conference Second track, International Conference on Software Maintenance and Evolution (ICSME 2019)
 - Oct. 2016, "Analysis on Causal-Effect Relationship in Effort Metrics Using Bayesian LiNGAM," Fast Abstract track, International Symposium on Software Reliability Engineering (ISSRE2016)
