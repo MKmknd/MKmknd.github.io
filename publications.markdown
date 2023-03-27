@@ -56,6 +56,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 石本優太，**近藤将成**，鵜林尚靖，亀井靖高，"電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：確率的オートマトンとn-gramに基づくRNNに対するバグ限局，信学技報, vol. 122, no. 138, SS2022-10, pp. 55-60, 2022年7月."
+- Wang Jianhong, "第213回ソフトウェア工学研究発表会 学生研究賞：Jianhong Wang, Yuta Ishimoto, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Robust Object Detection Models by Metamorphic Testing," 第213回ソフトウェア工学研究発表会，2023年3月．"
 - 中村 悠人，"IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，DVCリポジトリにおける機械学習パイプラインの進化に関する調査，FOSE2022，Nov. 2022．
 - 森田 一成, 柏 祐太郎, 中村 司, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "研究奨励賞: トレースログを用いたバグ予測の性能評価," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), 2022年3月. (オンライン)
 - 中村 悠人, "第210回ソフトウェア工学研究発表会 学生研究賞: 中村 悠人, 松尾 春紀, 松田 雄河, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "DVCリポジトリにおけるMLパイプラインの進化に関する調査," 第210回ソフトウェア工学研究発表会, 2022年3月. (オンライン)"
