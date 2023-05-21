@@ -25,6 +25,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Better Online Communication for Future Software Development in Industry," In Proc. of the 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS2023), 2023. (accepted, to appear)
 - Yuta Ishimoto, Ken Matsui, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "An Initial Analysis of Repair and Side-effect Prediction for  Neural Networks," In Proc. of the 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN), 2023. (accepted, to appear)
 - Hiroki Yamamoto, Dong Wang, Gopi Rajbahadur, **Masanari Kondo**, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2023). (accepted, to appear)
 - Kyosuke Yamate, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei and Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), pp. 563-568, 2022.
@@ -75,6 +76,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "最優秀論文賞: 深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017 (SES2017), 2017年8月.
 
 ## Presentations (International)
+- June, 2023, "Towards Better Online Communication for Future Software Development in Industry," The 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS), 2023.
+- May, 2023, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," In Journal First track,  International Conference on Software Engineering (ICSE2023), 2023.
 - May, 2022, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Industry track, International Conference on Mining Software Repositories (MSR2022), 2022.
 - July. 2020, "The Impact of Feature Reduction Techniques on Defect Prediction Models," In Journal First track, International Conference on Software Engineering (ICSE2020) (Virtual)
 - Sep. 2019, "The Impact of Context Metrics on Just-In-Time Defect Prediction," In Journal First/Conference Second track, International Conference on Software Maintenance and Evolution (ICSME 2019)
