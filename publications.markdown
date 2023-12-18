@@ -16,12 +16,12 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
-- Dong Wang, **Masanari Kondo**, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi, "When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub," Empirical Software Engineering, (accepted, to appear), 2023.
+- Dong Wang, **Masanari Kondo**, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi, "When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub," Empirical Software Engineering, Vol.28, No.138, 2023.
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
 - Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, Vol.E106-D, No.2, pp.157-165, Feb. 2023.
-- 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
-- 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear)
+- 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, 40巻1号, pp.45-56, 2023.
+- 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, 39巻4号, pp.10-16, 2022.
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 63(4), pp.986-998, 2022.
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
@@ -34,7 +34,6 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Kyosuke Yamate, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei and Naoyasu Ubayashi, "Hey APR! Integrate Our Fault Localization Skill: Toward Better Automated Program Repair," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), pp. 563-568, 2022.
 - Tsukasa Nakamura, **Masanari Kondo**, Yasutaka Kamei and Naoyasu Ubayashi, "Evaluating Automated Program Repair Techniques using Introductory Programming Course Datasets," In Proc. of the IEEE Computers, Software, and Applications Conference (COMPSAC 2022), pp. 569-574, 2022.
 - Hiroki Kuramoto, **Masanari Kondo**, Yutaro Kashiwa, Yuta Ishimoto, Kaze Shindo, Yasutaka Kamei, Naoyasu Ubayashi, "Do Visual Issue Reports Help Developers Fix Bugs? - A Preliminary Study of Using Videos and Images to Report Issues on  GitHub -," In Proc. of the 30th IEEE/ACM International Conference on Program Comprehension (ICPC 2022 ERA), pp. 511-515, 2022. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2022ICPC.pdf)
-
 - **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Proc. of the 19th International Conference on Mining Software Repositories (Industry Track) (MSR 2022 Industry Track), pp. 103-104, 2022.[(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2022MSR.pdf)
 - Lei Shi, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "Towards Better Coverage of Dataset with Software Product Line Engineering," In Proc. of the 21st IEEE International Conference on Software Quality, Reliability, and Security Companion (QRS-C 2021), pp.1173-1174, 2021.
 - Shoma Kokuryo, **Masanari Kondo** and Osamu Mizuno, "An Empirical Study of Utilization of Imperative Modules in Ansible," In Proc. of the 20th International Conference on Software Quality, Reliability, and Security (QRS2020), pp.442-449, 2020.
@@ -43,9 +42,16 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo** and Osamu Mizuno, "Analysis on Causal-Effect Relationship in Effort Metrics Using Bayesian LiNGAM," In Proc. of the 27th International Symposium on Software Reliability Engineering (ISSRE2016), Workshops proceeding, pp. 47-48, October 2016. (Ottawa, Canada).
 - **Masanari Kondo** and Ryosuke Kubota, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” In Proc. of the International Symposium on Technology for Sustainability (ISTS2014), in CD-ROM (4 pages), November 2014, (Taipei, Taiwan).
 
+## Books
+- OSS Myths and Facts, [Book URL](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/ebook/myth_of_OSS%202023-12-01-02.00.56.pdf)
+
 ## Domestic Conferences
-- 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，"DVCリポジトリにおける機械学習パイプラインの進化に関する調査" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，(accepted, to appear)．
-- 小柳 慶，秋山 楽登，沖野 健太郎，**近藤 将成**，亀井 靖高，鵜林 尚靖，"Pythonにおける機械学習関連ライブラリの自動推薦手法の評価" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，(accepted, to appear)．
+- 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
+- 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
+- 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖，"プログラム自動修正に向けた行単位のバグ予測手法の拡張とその評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
+- 小栁 慶，野口 広太郎，王 棟，**近藤 将成**，亀井 靖高，鵜林 尚靖，"GitHub Copilotを用いたコード推薦における入力言語の影響調査" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
+- 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，"DVCリポジトリにおける機械学習パイプラインの進化に関する調査" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，pp.103-112，2022年11月．
+- 小柳 慶，秋山 楽登，沖野 健太郎，**近藤 将成**，亀井 靖高，鵜林 尚靖，"Pythonにおける機械学習関連ライブラリの自動推薦手法の評価" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，pp.91-96，2022年11月．
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究" 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021), pp.13-22, 2021年11月.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021), pp.61-70, 2021年11月.
 - 浅田 翔, 柏 祐太郎, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "継続的インテグレーションに影響を及ぼすRinging Test Alarmsに関する実証調査," 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021) (ショートペーパー), pp.145-150, 2021年11月.
@@ -57,6 +63,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017論文集 (SES2017) , pp. 35-45, 2017年8月. (東京都)
 
 ## Domestic Conferences (No Reviews)
+- 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, (accepted, to appear).
+- 野口 広太郎, 小柳 慶, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "GitHub Copilotを用いたコード自動生成におけるプログラム仕様文順序の影響調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, (accepted, to appear).
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
@@ -68,7 +76,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 松田 雄河, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, 実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析, FOSE2021", Nov. 2021.
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "研究奨励賞: 自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, 2021年9月.
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "学生奨励賞: 木編集距離を用いた類似コード検索器における深層学習モデルの性能評価," ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 2021年9月.
-- **M. Kondo**, G. A. Oliva, Z. M. (Jack) Jiang, A. E. Hassan, and O. Mizuno,"SIGSE卓越研究賞: Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, (accepted, to appear).
+- **M. Kondo**, G. A. Oliva, Z. M. (Jack) Jiang, A. E. Hassan, and O. Mizuno,"SIGSE卓越研究賞: Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering,Vol.25, No.6, pp.4617–4675, 2020.
 - **M. Kondo**, C. Bezemer, Y. Kamei, A. E. Hassan, and O. Mizuno, "SIGSE卓越研究賞: The Impact of Feature Reduction Techniques on Defect Prediction Models," Empirical Software Engineering, 10.1007/s10664-018-9679-5, August 2019.
 - **M. Kondo**, D. German, O. Mizuno, and E. Choi, "SIGSE卓越論文賞: The Impact of Context Metrics on Just-In-Time Defect Prediction,," Empirical Software Engineering, August 2019.
 - 北村 紗也加, "IEEE Computer Society Japan Chapter SES Young Researcher Award: 北村 紗也加, **近藤 将成**, 水野 修, "類似した開発者の分類と不具合予測におけるその効果," ソフトウェアエンジニアリングシンポジウム2019論文集 (SES2019)," August 2019.
