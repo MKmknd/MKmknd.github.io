@@ -68,6 +68,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 宇都宮 魁斗, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価，FOSE2023，2023．"
 - 石本優太，**近藤将成**，鵜林尚靖，亀井靖高，"電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：確率的オートマトンとn-gramに基づくRNNに対するバグ限局，信学技報, vol. 122, no. 138, SS2022-10, pp. 55-60, 2022年7月."
 - Wang Jianhong, "第213回ソフトウェア工学研究発表会 学生研究賞：Jianhong Wang, Yuta Ishimoto, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Robust Object Detection Models by Metamorphic Testing," 第213回ソフトウェア工学研究発表会，2023年3月．"
 - 中村 悠人，"IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，DVCリポジトリにおける機械学習パイプラインの進化に関する調査，FOSE2022，Nov. 2022．
