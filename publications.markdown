@@ -26,6 +26,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Kei Koyanagi, Dong Wang, Kotaro Noguchi, **Masanari Kondo**, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi, "Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot," In Proc. of the 21st International Conference on Mining Software Repositories (MSR2024). (accepted, to appear)
 - Issei Morita, Yutaro Kashiwa, **Masanari Kondo**, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei and Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on JIT Defect Prediction," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024). (accepted, to appear)
 - Hiroya Watanabe, **Masanari Kondo**, Eunjong Choi and Osamu Mizuno, "Benefits and pitfalls of token-level SZZ: An empirical study on OSS projects," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024). (accepted, to appear)
 - **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Better Online Communication for Future Software Development in Industry," In Proc. of the 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS2023), pp. 1619-1624, 2023.
