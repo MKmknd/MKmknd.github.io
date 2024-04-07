@@ -16,10 +16,12 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
+- Hiroki Kuramoto, Dong Wang, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports," Empirical Software Engineering, (accepted, to appear) 2024.
 - Dong Wang, **Masanari Kondo**, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi, "When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub," Empirical Software Engineering, Vol.28, No.138, 2023.
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
 - Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, Vol.E106-D, No.2, pp.157-165, Feb. 2023.
+- 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖, "プログラム自動修正に向けた行レベルのバグ予測手法LineVul+の提案," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear), 2024.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, 40巻1号, pp.45-56, 2023.
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, 39巻4号, pp.10-16, 2022.
 - 沖野 健太郎, 松尾 春紀, 山本 大貴, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "木編集距離に着目した類似解答ソースコード検索器における深層学習モデルの性能評価", 情報処理学会論文誌, 63(4), pp.986-998, 2022.
@@ -89,6 +91,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "最優秀論文賞: 深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017 (SES2017), 2017年8月.
 
 ## Presentations (International)
+- March, 2024, "Benefits and pitfalls of token-level SZZ: An empirical study on OSS projects," The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024), 2024.
 - June, 2023, "Towards Better Online Communication for Future Software Development in Industry," The 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS), 2023.
 - May, 2023, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," In Journal First track,  International Conference on Software Engineering (ICSE2023), 2023.
 - May, 2022, "Challenges and Future Research Direction for Microtask  Programming in Industry," In Industry track, International Conference on Mining Software Repositories (MSR2022), 2022.
@@ -98,6 +101,11 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 中村 悠人，石本 優太，勝部 瞭太，佐藤 直人，小川 秀人，近藤 将成，亀井 靖高，鵜林 尚靖, "量子プログラムにおけるSATDの分類と評価," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), 2024年3月.
+- 戸井 裕規，小栁 慶，野口 広太郎，近藤 将成，亀井 靖高，鵜林 尚靖, "GitHub Copilotを用いたコード生成におけるプロンプト削除の影響調査," 第216回ソフトウェア工学研究発表会, 2024年3月.
+- 宇都宮 魁斗，近藤 将成，亀井 靖高，鵜林 尚靖, "大学プログラミング教育で発生したコンパイルエラーに対するGPT-3.5による修正の特徴分析," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), 2024年3月.
+- 森田 一成，柏 祐太郎，近藤 将成，Jeongju Sohn，Shane McIntosh，亀井 靖高，鵜林 尚靖, "TraceJIT:Just-In-Timeバグ予測におけるソフトウェアのふるまいの変化が与える影響の調査," 情報処理学会九州支部若手の会, 2023年12月.
+- 戸井 裕規，小栁 慶，野口 広太郎，近藤 将成，亀井 靖高，鵜林 尚靖, "GitHub Copilotを用いたコード生成におけるプロンプト削除の影響調査," 情報処理学会九州支部若手の会, 2023年12月.
 - 野口広太郎, 小柳慶, 近藤将成, 亀井靖高, 鵜林尚靖, "GitHub Copilotを用いたコード自動生成における入力データ順序の影響調査," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.122, no.444, pp.85-90, 2023年3月.
 - 東本知志, 蔵元宏樹, 斎藤忍, 飯村結香子, 近藤将成, 亀井靖高, 鵜林尚靖, "OSSの採用リスク低減に向けたOSSへの生存時間分析の適用," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.122, no.444, pp.43-48, 2023年3月.
 - 友池真輝, 沖野健太郎, 近藤将成, 亀井靖高, 鵜林尚靖, "初学者支援を目的としたコードエディタにおけるPythonの型プレビュー機能実装," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.122, no.444, pp.31-36, 2023年3月.
