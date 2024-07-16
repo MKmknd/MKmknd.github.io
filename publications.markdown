@@ -47,7 +47,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo** and Ryosuke Kubota, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” In Proc. of the International Symposium on Technology for Sustainability (ISTS2014), in CD-ROM (4 pages), November 2014, (Taipei, Taiwan).
 
 ## Books
-- OSS Myths and Facts, [Book URL](https://github.com/oss-ebook/oss-ebook.github.io/blob/main/assets/ebook/myth_of_OSS%202023-12-01-02.00.56.pdf)
+- OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences
 - 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
