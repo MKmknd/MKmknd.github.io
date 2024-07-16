@@ -8,6 +8,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 
 
 ## Journal Papers (First Author)
+- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, (accepted, to appear) [(preprint)](https://arxiv.org/abs/2405.09165)
 - **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, and Osamu Mizuno, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," Empirical Software Engineering, Vol 27, No.136, 2022. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2022EMSE_ILA.pdf)
 - **Masanari Kondo**, Gustavo A. Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan, and Osamu Mizuno, "Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, Vol.25, No.6, pp.4617–4675, 10.1007/s10664-020-09852-5, 2020. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2020EMSE_codeclone.pdf)
 - **Masanari Kondo**, Daniel M. German, Osamu Mizuno, and Eun-Hye Choi, "The Impact of Context Metrics on Just-In-Time Defect Prediction," Empirical Software Engineering, Vol.25, No.1, pp.890–939, 10.1007/s10664-019-09736-3, 2020. (IF (2019): 4.457) [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2020EMSE_context_metrics.pdf)
