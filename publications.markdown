@@ -29,9 +29,9 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
-- Kei Koyanagi, Dong Wang, Kotaro Noguchi, **Masanari Kondo**, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi, "Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot," In Proc. of the 21st International Conference on Mining Software Repositories (MSR2024). (accepted, to appear) [(preprint)](https://arxiv.org/abs/2402.01438)
-- Issei Morita, Yutaro Kashiwa, **Masanari Kondo**, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei and Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on JIT Defect Prediction," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024). (accepted, to appear) [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/morita2024SANER.pdf)
-- Hiroya Watanabe, **Masanari Kondo**, Eunjong Choi and Osamu Mizuno, "Benefits and pitfalls of token-level SZZ: An empirical study on OSS projects," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024). (accepted, to appear) [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/watanabe2024SANER.pdf)
+- Kei Koyanagi, Dong Wang, Kotaro Noguchi, **Masanari Kondo**, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi, "Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot," In Proc. of the 21st International Conference on Mining Software Repositories (MSR2024), pp.481-486, 2024. [(preprint)](https://arxiv.org/abs/2402.01438)
+- Issei Morita, Yutaro Kashiwa, **Masanari Kondo**, Jeongju Sohn, Shane McIntosh, Yasutaka Kamei and Naoyasu Ubayashi, "TraceJIT: Evaluating the Impact of Behavioral Code Change on JIT Defect Prediction," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024), pp.580-591, 2024. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/morita2024SANER.pdf)
+- Hiroya Watanabe, **Masanari Kondo**, Eunjong Choi and Osamu Mizuno, "Benefits and pitfalls of token-level SZZ: An empirical study on OSS projects," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024), pp.776-786, 2024. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/watanabe2024SANER.pdf)
 - **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Eunjong Choi, Osamu Mizuno, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Better Online Communication for Future Software Development in Industry," In Proc. of the 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS2023), pp. 1619-1624, 2023.
 - Yuta Ishimoto, Ken Matsui, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "An Initial Analysis of Repair and Side-effect Prediction for  Neural Networks," In Proc. of the 2nd International Conference on AI Engineering – Software Engineering for AI (CAIN), pp. 80-85, 2023.
 - Hiroki Yamamoto, Dong Wang, Gopi Rajbahadur, **Masanari Kondo**, Yasutaka Kamei, Naoyasu Ubayashi, "Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning," In Proc. of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2023), pp. 485-496, 2023.
@@ -50,10 +50,10 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences
-- 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
-- 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
-- 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖，"プログラム自動修正に向けた行単位のバグ予測手法の拡張とその評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
-- 小栁 慶，野口 広太郎，王 棟，**近藤 将成**，亀井 靖高，鵜林 尚靖，"GitHub Copilotを用いたコード推薦における入力言語の影響調査" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，(accepted, to appear)
+- 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.23-32，2023．
+- 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.63-71，2023．
+- 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖，"プログラム自動修正に向けた行単位のバグ予測手法の拡張とその評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.73-82，2023．
+- 小栁 慶，野口 広太郎，王 棟，**近藤 将成**，亀井 靖高，鵜林 尚靖，"GitHub Copilotを用いたコード推薦における入力言語の影響調査" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.135-140，2023．
 - 中村 悠人，松田 雄河，松尾 春紀，**近藤 将成**，亀井 靖高，鵜林 尚靖，"DVCリポジトリにおける機械学習パイプラインの進化に関する調査" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，pp.103-112，2022年11月．
 - 小柳 慶，秋山 楽登，沖野 健太郎，**近藤 将成**，亀井 靖高，鵜林 尚靖，"Pythonにおける機械学習関連ライブラリの自動推薦手法の評価" 第29回ソフトウェア工学の基礎ワークショップ (FOSE2022)，pp.91-96，2022年11月．
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究" 第28回ソフトウェア工学の基礎ワークショップ (FOSE2021), pp.13-22, 2021年11月.
@@ -67,8 +67,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017論文集 (SES2017) , pp. 35-45, 2017年8月. (東京都)
 
 ## Domestic Conferences (No Reviews)
-- 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, (accepted, to appear).
-- 野口 広太郎, 小柳 慶, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "GitHub Copilotを用いたコード自動生成におけるプログラム仕様文順序の影響調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, (accepted, to appear).
+- 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, pp.191-198, 2023.
+- 野口 広太郎, 小柳 慶, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "GitHub Copilotを用いたコード自動生成におけるプログラム仕様文順序の影響調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), pp.94-101, 一般論文, 2023.
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
