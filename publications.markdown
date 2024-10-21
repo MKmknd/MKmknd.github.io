@@ -8,7 +8,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 
 
 ## Journal Papers (First Author)
-- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, (accepted, to appear) [(preprint)](https://arxiv.org/abs/2405.09165)
+- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024. [(preprint)](https://arxiv.org/abs/2405.09165)
 - **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, and Osamu Mizuno, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," Empirical Software Engineering, Vol 27, No.136, 2022. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2022EMSE_ILA.pdf)
 - **Masanari Kondo**, Gustavo A. Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan, and Osamu Mizuno, "Code Cloning in Smart Contracts: A Case Study on Verified Contracts from the Ethereum Blockchain Platform," Empirical Software Engineering, Vol.25, No.6, pp.4617–4675, 10.1007/s10664-020-09852-5, 2020. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2020EMSE_codeclone.pdf)
 - **Masanari Kondo**, Daniel M. German, Osamu Mizuno, and Eun-Hye Choi, "The Impact of Context Metrics on Just-In-Time Defect Prediction," Empirical Software Engineering, Vol.25, No.1, pp.890–939, 10.1007/s10664-019-09736-3, 2020. (IF (2019): 4.457) [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kondo2020EMSE_context_metrics.pdf)
@@ -17,7 +17,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
-- Hiroki Kuramoto, Dong Wang, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports," Empirical Software Engineering, (accepted, to appear) [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2024EMSE.pdf)
+- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, (accepted, to appear)
+- Hiroki Kuramoto, Dong Wang, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports," Empirical Software Engineering, Vol.29, No.89, 2024. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2024EMSE.pdf)
 - Dong Wang, **Masanari Kondo**, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi, "When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub," Empirical Software Engineering, Vol.28, No.138, 2023.
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
