@@ -23,6 +23,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.
 - Yutaro Kashiwa, Ryoma Nishikawa, Yasutaka Kamei, **Masanari Kondo**, Emad Shihab, Ryosuke Sato, Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Modern Code Review," Information and Software Technology, Vol.146, pp.(to appear), 2022.
 - Khine Yin Mon, **Masanari Kondo**, Eunjong Choi, Osamu Mizuno, "Commit-based Class-level Defect Prediction for Python Projects," IEICE Transactions, Vol.E106-D, No.2, pp.157-165, Feb. 2023.
+- 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析に基づく OSS の持続可能性の実証的評価," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear), 2024.
 - 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖, "プログラム自動修正に向けた行レベルのバグ予測手法LineVul+の提案," 日本ソフトウェア科学会 コンピュータソフトウェア, (accepted, to appear), 2024.
 - 松田 雄河, 山手 響介, **近藤 将成**, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "実行経路を考慮した自動テストケース生成が自動プログラム修正に与える影響の分析," 日本ソフトウェア科学会 コンピュータソフトウェア, 40巻1号, pp.45-56, 2023.
 - 秋山 楽登, 中村 司, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "プログラミング初学者のバグ修正履歴を用いたデバッグ問題自動生成の事例研究," 日本ソフトウェア科学会 コンピュータソフトウェア, 39巻4号, pp.10-16, 2022.
